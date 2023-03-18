@@ -10,7 +10,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="weather-ch",
-    version="0.0.3",
+    version="0.0.4",
     description="Python library for weather information.",
     long_description=long_description,
     long_description_content_type="text/markdown",

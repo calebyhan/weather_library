@@ -5,3 +5,5 @@
 0.0.2 - fixed circular import
 
 0.0.3 - changed structure of functions
+
+0.0.4 - fixed self. typo

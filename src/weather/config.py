@@ -11,7 +11,7 @@ class API:
 
 
     def current(self, q, aqi="no", lang=-1):
-        self.self.__check_api_key()
+        self.__check_api_key()
         params = {
             "key": self.api_key,
             "q": q,
