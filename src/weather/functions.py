@@ -1,6 +1,6 @@
 import requests
 
-from weather import weather_api_key
+from weather.config import weather_api_key
 
 def __check_api_key():
     if weather_api_key == "":
