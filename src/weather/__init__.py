@@ -1,3 +1,3 @@
-from weather.config import API
+from weather.main import API
 
 __all__ = ['API']
